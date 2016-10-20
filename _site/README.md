@@ -1,5 +1,10 @@
 # front cover jekyll theme
 
+## Original Creator
+The original creator of this page can be found at 
+https://github.com/dashingcode/front-cover
+It is used under the creative commons licence. 
+
 ## Why choose this jekyll theme for your front page?
 * You don't have to modify any HTML, everything can be modified in config.yml.
 * Very lightweight. No Javascript, No Bootstrap etc..
