@@ -121,6 +121,10 @@ a:hover {
 }
 }
 
+a {
+    color:white;
+}
+
 #visualizer {
     background-image: url(../imgs/reddit.png);
     margin-bottom: 0px;
