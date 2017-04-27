@@ -127,6 +127,6 @@ a:hover {
     background-position: 0% 25%;
     background-size: cover;
     background-repeat: no-repeat;
-    color: white;
+    color: white !important;
     text-shadow: black 0.3em 0.3em 0.3em;
 }
